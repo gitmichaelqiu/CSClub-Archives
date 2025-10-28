@@ -3,7 +3,6 @@
 //
 // Created by Michael Qiu on 2025/10/28.
 
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
